@@ -7,9 +7,5 @@ The analysis revealed that peak morning hours generate the highest sales, making
 
 Based on the insights gathered, several recommendations were made to improve business performance. To drive sales and growth, it is recommended to introduce combo deals, promote high performing products and introduce seasonal offerings to maintain customer interest. From an operational perspective, increasing staffing during peak hours, optimising inventory management and replicating successful strategies across stores can improve efficiency. In terms of marketing and customer traffic, implementing promotions during off peak hours, offering loyalty incentives and aligning campaigns with customer behaviour patterns can help attract and retain customers.
 
-
-
-
-
-
+This project demonstrates the practical application of SQL in analysing real world business data and generating actionable insights. The findings and recommendations provide valuable guidance for improving decision making, enhancing customer experience, and driving sustainable growth within the Bright Coffee Shop business.
  
