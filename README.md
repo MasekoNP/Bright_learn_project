@@ -5,13 +5,9 @@ The project was conducted by first cleaning and validating the dataset to ensure
 
 The analysis revealed that peak morning hours generate the highest sales, making this period critical for revenue generation. A small group of products was found to contribute significantly to overall revenue, highlighting the importance of focusing on high performing items. It was also observed that evenings experience lower sales volumes, presenting an opportunity for targeted interventions. Furthermore, customer spending patterns showed variability, suggesting opportunities for upselling and bundling, while certain products were frequently purchased together, indicating potential for effective product combinations.
 
+Based on the insights gathered, several recommendations were made to improve business performance. To drive sales and growth, it is recommended to introduce combo deals, promote high performing products and introduce seasonal offerings to maintain customer interest. From an operational perspective, increasing staffing during peak hours, optimising inventory management and replicating successful strategies across stores can improve efficiency. In terms of marketing and customer traffic, implementing promotions during off peak hours, offering loyalty incentives and aligning campaigns with customer behaviour patterns can help attract and retain customers.
 
 
-
-
-
-
-hrough this project, I was able to identify actionable insights such as high performing, low performing products, revenue patterns and opportunities to optimize staffing and promotions. This demonstrates my ability to apply data analysis skills in a practical business context.
 
 
 
