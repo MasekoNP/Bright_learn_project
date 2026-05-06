@@ -11,10 +11,10 @@ The analysis focuses on identifying sales trends, understanding customer purchas
 
 ## Tools & Technologies
 
-* SQL (Databricks) – Data cleaning and analysis
-* Excel / Power BI – Data visualisation and dashboards
-* Miro - Project planning (Flowchart and gantt chart)
-* GitHub – Project documentation and version control
+* **SQL (Databricks)** – Data cleaning and analysis
+* **Excel / Power BI** – Data visualisation and dashboards
+* **Miro** - Project planning (Flowchart and gantt chart)
+* **GitHub** – Project documentation and version control
 
 ---
 
