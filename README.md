@@ -11,11 +11,10 @@ The analysis focuses on identifying sales trends, understanding customer purchas
 
 ## Tools & Technologies
 
-* SQL
-* Data Analysis Techniques
-* Aggregate Functions
-* CASE statement
-* Data Cleaning & Transformation
+* SQL (Databricks) – Data cleaning and analysis
+* Excel / Power BI – Data visualisation and dashboards
+* Miro - Project planning (Flowchart and gantt chart)
+* GitHub – Project documentation and version control
 
 ---
 
@@ -66,5 +65,3 @@ Time-based analysis was also conducted to identify peak trading hours, while pro
 This project demonstrates the practical application of SQL in analysing real-world business data. The insights and recommendations provided can help improve decision-making, enhance customer experience, and drive revenue growth for Bright Coffee Shop.
 
 ---
-Add a **GitHub project structure section (files, queries, dataset)**
-* Or tailor this specifically for **job applications/recruiters** 🔥
