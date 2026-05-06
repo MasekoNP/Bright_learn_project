@@ -15,7 +15,8 @@ The analysis focuses on identifying sales trends, understanding customer purchas
 * **Excel / Power BI** – Data visualisation and dashboards
 * **Miro** - Project planning (Flowchart and gantt chart)
 * **GitHub** – Project documentation and version control
-* **Lovable dashboard link** - https://lovable.dev/projects/264533ff-63cf-4090-8d95-b477acc2d078
+* **Lovable dashboard link** - [https://lovable.dev/projects/264533ff-63cf-4090-8d95-b477acc2d078](https://insight-palette-89.lovable.app)
+* 
 
 ---
 
